@@ -12,3 +12,5 @@
   - Normalized the variables between 0 and 1
 - train_test.py
   - Splits the data into train and test sets
+- HEALTHINF2022FinalPaper (3).pdf
+  - Includes the full Conference Published Research Paper
